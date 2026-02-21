@@ -41,8 +41,8 @@ The same approach can be extended to track 100+ status pages from different prov
 ### 1. Clone or download the project
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone <https://github.com/Asta1984/bona-assignment.git>
+cd <bolna>
 ```
 
 ### 2. Install dependencies
